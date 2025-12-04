@@ -1,0 +1,55 @@
+/* roboto */
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* asadbek start */
+.brands {
+    display: flex;
+    align-items: center;
+    justify-content:
+        space-between;
+    padding: 80px 150px;
+}
+
+.androin_card {
+    width: 360px;
+}
+
+.brands_title {
+    font-family: "Roboto", sans-serif;
+    color: #00194A;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.brands_p {
+    width: 300px;
+    font-family: "Roboto", sans-serif;
+    color: #00194A;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.oblachko {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fa-cloud-arrow-down {
+    color: red;
+}
