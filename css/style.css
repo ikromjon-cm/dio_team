@@ -20,8 +20,7 @@
 .brands {
     display: flex;
     align-items: center;
-    justify-content:
-        space-between;
+    justify-content: space-between;
     padding: 80px 150px;
 }
 
@@ -29,11 +28,16 @@
     width: 360px;
 }
 
+.brands_img{
+    margin-bottom: 25px;
+}
+
 .brands_title {
     font-family: "Roboto", sans-serif;
-    color: #00194A;
+    color: #00194A; 
     font-size: 22px;
     font-weight: 500;
+    margin-bottom: 15px;
 }
 
 .brands_p {
@@ -42,12 +46,21 @@
     color: #00194A;
     font-size: 16px;
     font-weight: 300;
+    margin-bottom: 20px;
 }
 
 .oblachko {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.oblachko_link{
+    font-family: "Roboto", sans-serif;
+    color: #00194A;
+    font-size: 16px;
+    font-weight: 400;
+    color: #00194A;
 }
 
 .fa-cloud-arrow-down {
