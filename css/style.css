@@ -15,6 +15,71 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+/* muhammadbobur */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+header h1{
+    color: #FF0043;
+    font-size: 20px;
+}
+.logo button{
+    width: 94px;
+    height: 46px;
+    border-radius: 23px;
+    color: #fff;
+    background-color: #FF0043;
+    border: none;
+}
+.box{
+     margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 200px;
+    display: flex;
+}
+.box_text {
+    width: 552px;
+    height: 384px;
+}
+.box_text h1{
+    font-size: 60px;
+    font-weight: 500;
+    color: #00194A;
+    margin-bottom: 20px;
+}
+.box_text p{
+    font-size: 18px;
+    color: #00194A;
+    margin-bottom: 50px;
+}
+.box_text button{
+     background-color: #FF0043;
+     width: 275px;
+     height: 60px;
+     border-radius: 50px;
+     border: none;
+}
+.box_img img{
+    margin-top: -120px;
+}
+
+
+/* muhammadbobur */
+
 
 /* asadbek start */
 .brands {
